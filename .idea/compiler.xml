@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="homework_06_maven_project" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="homework_06_gradle_project.plugin" target="22" />
+      <module name="homework_06_gradle_project.plugin.functionalTest" target="22" />
+      <module name="homework_06_gradle_project.plugin.main" target="22" />
+      <module name="homework_06_gradle_project.plugin.test" target="22" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
